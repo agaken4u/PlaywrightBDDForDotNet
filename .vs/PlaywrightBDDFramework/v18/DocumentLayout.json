@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|c:\\users\\efeoghene\\onedrive\\skrivbord\\software_testing\\technical_test_design _a_test_automation_framework\\playwrightbddframework\\playwrightbddframework1\\hooks\\testhooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|solutionrelative:hooks\\testhooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|c:\\users\\efeoghene\\onedrive\\skrivbord\\software_testing\\technical_test_design _a_test_automation_framework\\playwrightbddframework\\playwrightbddframework1\\stepdefinitions\\saucedemosteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|solutionrelative:stepdefinitions\\saucedemosteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|c:\\users\\efeoghene\\onedrive\\skrivbord\\software_testing\\technical_test_design _a_test_automation_framework\\playwrightbddframework\\playwrightbddframework1\\ui\\features\\saucedemo.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|solutionrelative:ui\\features\\saucedemo.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|c:\\users\\efeoghene\\onedrive\\skrivbord\\software_testing\\technical_test_design _a_test_automation_framework\\playwrightbddframework\\playwrightbddframework1\\ui\\features\\saucedemonegative.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|solutionrelative:ui\\features\\saucedemonegative.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|c:\\users\\efeoghene\\onedrive\\skrivbord\\software_testing\\technical_test_design _a_test_automation_framework\\playwrightbddframework\\playwrightbddframework1\\stepdefinitions\\saucedemonegativesteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|solutionrelative:stepdefinitions\\saucedemonegativesteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|c:\\users\\efeoghene\\onedrive\\skrivbord\\software_testing\\technical_test_design _a_test_automation_framework\\playwrightbddframework\\playwrightbddframework1\\stepdefinitions\\apisteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|solutionrelative:stepdefinitions\\apisteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|c:\\users\\efeoghene\\onedrive\\skrivbord\\software_testing\\technical_test_design _a_test_automation_framework\\playwrightbddframework\\playwrightbddframework1\\ui\\pages\\checkoutcompletepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|solutionrelative:ui\\pages\\checkoutcompletepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|c:\\users\\efeoghene\\onedrive\\skrivbord\\software_testing\\technical_test_design _a_test_automation_framework\\playwrightbddframework\\playwrightbddframework1\\ui\\pages\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|solutionrelative:ui\\pages\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|c:\\users\\efeoghene\\onedrive\\skrivbord\\software_testing\\technical_test_design _a_test_automation_framework\\playwrightbddframework\\playwrightbddframework1\\ui\\pages\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|solutionrelative:ui\\pages\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|c:\\users\\efeoghene\\onedrive\\skrivbord\\software_testing\\technical_test_design _a_test_automation_framework\\playwrightbddframework\\playwrightbddframework1\\ui\\pages\\inventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|solutionrelative:ui\\pages\\inventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|c:\\users\\efeoghene\\onedrive\\skrivbord\\software_testing\\technical_test_design _a_test_automation_framework\\playwrightbddframework\\playwrightbddframework1\\ui\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|solutionrelative:ui\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|c:\\users\\efeoghene\\onedrive\\skrivbord\\software_testing\\technical_test_design _a_test_automation_framework\\playwrightbddframework\\playwrightbddframework1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|c:\\users\\efeoghene\\onedrive\\skrivbord\\software_testing\\technical_test_design _a_test_automation_framework\\playwrightbddframework\\playwrightbddframework1\\api\\features\\petapi.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|solutionrelative:api\\features\\petapi.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|c:\\users\\efeoghene\\onedrive\\skrivbord\\software_testing\\technical_test_design _a_test_automation_framework\\playwrightbddframework\\playwrightbddframework1\\utils\\testdatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|solutionrelative:utils\\testdatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|c:\\users\\efeoghene\\onedrive\\skrivbord\\software_testing\\technical_test_design _a_test_automation_framework\\playwrightbddframework\\playwrightbddframework1\\playwrightbddframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|solutionrelative:playwrightbddframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|c:\\users\\efeoghene\\onedrive\\skrivbord\\software_testing\\technical_test_design _a_test_automation_framework\\playwrightbddframework\\playwrightbddframework1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4589E71B-DDC4-AD43-1584-E746199C6AC6}|PlaywrightBDDFramework.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SauceDemoNegativeSteps.cs",
+              "DocumentMoniker": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\StepDefinitions\\SauceDemoNegativeSteps.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\SauceDemoNegativeSteps.cs",
+              "ToolTip": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\StepDefinitions\\SauceDemoNegativeSteps.cs",
+              "RelativeToolTip": "StepDefinitions\\SauceDemoNegativeSteps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T22:03:42.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SauceDemoNegative.feature",
+              "DocumentMoniker": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\UI\\Features\\SauceDemoNegative.feature",
+              "RelativeDocumentMoniker": "UI\\Features\\SauceDemoNegative.feature",
+              "ToolTip": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\UI\\Features\\SauceDemoNegative.feature",
+              "RelativeToolTip": "UI\\Features\\SauceDemoNegative.feature",
+              "ViewState": "AgIAABUAAAAAAAAAAAAEwCYAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd\u002BUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAXdSURBVEhLlZZrbFRlGsd/79ynneFaLiMirS00UAJIoWWhisIqLKyJEK1m2fWLiYmJMTGYeImXxEtiNmTjGjQa/WDURFkSTSSsYYWFpVIqlrZgKbC0FKa3aacz7UzncubMOef1w5y50hL9zYdJ3vc5//95n/d9nvcIfit7vNDssYHhBhwgJUKkcNgUDiV0Dk2UPnErUkpROlaEzwo\u002Baxn75yxFiLUI6oBlwCzAAMKAH8klNC7y3sQQI7rCiF6qlGNmw23A0wuXI8VuYCdQBywE7CWRKhAAuoCjCHGUJwLDJTE5rKUDrHTBBpeLN21NTDjfQLAPWAXMnjY\u002BMzYbqAYakXIZCXmd\u002BdYwQ5oxXXCebcAz5WWsL99JxPE6gu1AGWCxCRt2ix1D5jWcFgcuqxNNagAWwIMQa1njXEyto4\u002BIMcqAJgstig3rnTYa3ZvRxQtAA2ADcFvdPLh4K7t824hqCYKpEB57OXuX7GKnbxsT6QhjynhWRSC4C7dwUWXvZlyfYDi/p8WGlc6FrHI9B/wJcGX3uNpTxSsrn2Nf5aMYGJwLdVLjrebg\u002Brd5cNFW/PEh2sLnC5XswCLKLAF60930prXshCUXco9D8DfPduBhM41CkPkl9SRTehyvvZxN8\u002BqpcM6nYe4aqj1VqDLNpBbNyZgI4A4Ej2FjeeHRzBsi5oNoAhYB2IWNzRUNbK5oQJcGhweO0BbqZDA5jKKnCChB\u002BmI3OOT/jlNjrXmZPAJYzZPeeuqdOZ9MSl0C7nWvoNb\u002BNLAEYPXsWj5tOMAO3wNUli\u002BhdbydE4HTnAt3ci3WT1AN0x25zHfDx/AnBpEUnY0sLnRu8qPSRkBXyK1wjsXKI56lWTPMnXdby6jxVLH3zt1sX9REd\u002BQKbaEOVCPFmBLk\u002B5H/0h/zF53cEgSCFUBFdiCzQo/FwQ73FmCHuX\u002BE1An64jcYVka5Eu3l53AXvVP9qFLNqc2wqlJinFGOEdBHKDC0s7Nso1mJbgADg\u002BuxAW7G/VyYvMTFyR7ieqJEK8M8x1zuLPMhASWTuUIinFGOENCHKDg0ElDM/ghmLl5e\u002BSyfNbzHJxsP8FT1X/DYPDmVLGtn1/HBhnf51x8\u002B4ctNH/LQ4q2lIZj6kDMUpBGMA6nsxJ99f\u002BSN1ftprKhnhbcai7BgoOOwOMxHBHbhIKrFSOkqy71VPLT4Pr5oPJiVyBICcqnJpNRpkaxzleMV9wN3AFgtNmpn1dAfG\u002BQr/7ecGG2haUEj6\u002Baupj/up8JVwb7KvaT0NOfDXSQMhWg6xvGxFn4InCrwk61mSqN5w6SEcc1gi6sOxFpAhFJhzocvcGz0JC3Bc2yZv5HX6p6ndtZyToy2UOlZysH171DrreHH0E98O3CUlmAb/wmcIqkns25pkN9wJnWcgJ5ruBmGtXG6UieBEUBKJD3R/9MTuYpFCO5duIm7y5ehGiqa1NENHauwsXnBBrZUbCSiTXFl6hohNZxVlMBNutQORrTcG\u002BQNA4ZOd/oMcBzIBQBohsZIcpSLk5f59/AJRs0u883AUS5FrhJUQkh5S4koQCu/pC8QyNdpcfNe4Yixxhkz7z9f9oVSukp/3M/ZUDung62E1UnieoKeyFX\u002BFzzL2VA7U1qsUMkA2Q/yYy6qHVzTctdFsWFf2mCuGKLKFgaxCZiDWeCT6Qj\u002BxFBOWCIJpycZSo4Qz\u002B9ZliRwCLfyOT3xGJfzEzN/Yrw1bys19r8DK81mYLltfJ40ujzMz6mX\u002BGdksHRyuk\u002BGDCeTN2n2tCJJmfebw/y3zmAsgShwnDblVd6P9pcGcFtDgAXWIAGjg2XOTgx5A4HFrNNM9ecxzNP9NZIDvBguSGIxtzdsT0GPqhBlEE324LNJoAnwmhE6MAX8hN32AUdin9Om9NGbLhHKM11qpmePx0azdw8Y/zBXOQZ0A6dpUb7nnNrNJUUheUt5FPF7DK00e\u002B4D\u002BVfzA7gT6KA9OchHUwniM1\u002BKhfx2w0fK4XGvG3BjtcZpHso1\u002Bt/DryjGaN2dvEzKAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-04-03T21:44:03.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CheckoutCompletePage.cs",
+              "DocumentMoniker": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\UI\\Pages\\CheckoutCompletePage.cs",
+              "RelativeDocumentMoniker": "UI\\Pages\\CheckoutCompletePage.cs",
+              "ToolTip": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\UI\\Pages\\CheckoutCompletePage.cs",
+              "RelativeToolTip": "UI\\Pages\\CheckoutCompletePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T21:23:34.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CheckoutPage.cs",
+              "DocumentMoniker": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\UI\\Pages\\CheckoutPage.cs",
+              "RelativeDocumentMoniker": "UI\\Pages\\CheckoutPage.cs",
+              "ToolTip": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\UI\\Pages\\CheckoutPage.cs",
+              "RelativeToolTip": "UI\\Pages\\CheckoutPage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T21:23:04.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartPage.cs",
+              "DocumentMoniker": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\UI\\Pages\\CartPage.cs",
+              "RelativeDocumentMoniker": "UI\\Pages\\CartPage.cs",
+              "ToolTip": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\UI\\Pages\\CartPage.cs",
+              "RelativeToolTip": "UI\\Pages\\CartPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T21:22:13.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SauceDemo.feature",
+              "DocumentMoniker": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\UI\\Features\\SauceDemo.feature",
+              "RelativeDocumentMoniker": "UI\\Features\\SauceDemo.feature",
+              "ToolTip": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\UI\\Features\\SauceDemo.feature",
+              "RelativeToolTip": "UI\\Features\\SauceDemo.feature",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwDIAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd\u002BUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAXdSURBVEhLlZZrbFRlGsd/79ynneFaLiMirS00UAJIoWWhisIqLKyJEK1m2fWLiYmJMTGYeImXxEtiNmTjGjQa/WDURFkSTSSsYYWFpVIqlrZgKbC0FKa3aacz7UzncubMOef1w5y50hL9zYdJ3vc5//95n/d9nvcIfit7vNDssYHhBhwgJUKkcNgUDiV0Dk2UPnErUkpROlaEzwo\u002Baxn75yxFiLUI6oBlwCzAAMKAH8klNC7y3sQQI7rCiF6qlGNmw23A0wuXI8VuYCdQBywE7CWRKhAAuoCjCHGUJwLDJTE5rKUDrHTBBpeLN21NTDjfQLAPWAXMnjY\u002BMzYbqAYakXIZCXmd\u002BdYwQ5oxXXCebcAz5WWsL99JxPE6gu1AGWCxCRt2ix1D5jWcFgcuqxNNagAWwIMQa1njXEyto4\u002BIMcqAJgstig3rnTYa3ZvRxQtAA2ADcFvdPLh4K7t824hqCYKpEB57OXuX7GKnbxsT6QhjynhWRSC4C7dwUWXvZlyfYDi/p8WGlc6FrHI9B/wJcGX3uNpTxSsrn2Nf5aMYGJwLdVLjrebg\u002Brd5cNFW/PEh2sLnC5XswCLKLAF60930prXshCUXco9D8DfPduBhM41CkPkl9SRTehyvvZxN8\u002BqpcM6nYe4aqj1VqDLNpBbNyZgI4A4Ej2FjeeHRzBsi5oNoAhYB2IWNzRUNbK5oQJcGhweO0BbqZDA5jKKnCChB\u002BmI3OOT/jlNjrXmZPAJYzZPeeuqdOZ9MSl0C7nWvoNb\u002BNLAEYPXsWj5tOMAO3wNUli\u002BhdbydE4HTnAt3ci3WT1AN0x25zHfDx/AnBpEUnY0sLnRu8qPSRkBXyK1wjsXKI56lWTPMnXdby6jxVLH3zt1sX9REd\u002BQKbaEOVCPFmBLk\u002B5H/0h/zF53cEgSCFUBFdiCzQo/FwQ73FmCHuX\u002BE1An64jcYVka5Eu3l53AXvVP9qFLNqc2wqlJinFGOEdBHKDC0s7Nso1mJbgADg\u002BuxAW7G/VyYvMTFyR7ieqJEK8M8x1zuLPMhASWTuUIinFGOENCHKDg0ElDM/ghmLl5e\u002BSyfNbzHJxsP8FT1X/DYPDmVLGtn1/HBhnf51x8\u002B4ctNH/LQ4q2lIZj6kDMUpBGMA6nsxJ99f\u002BSN1ftprKhnhbcai7BgoOOwOMxHBHbhIKrFSOkqy71VPLT4Pr5oPJiVyBICcqnJpNRpkaxzleMV9wN3AFgtNmpn1dAfG\u002BQr/7ecGG2haUEj6\u002Baupj/up8JVwb7KvaT0NOfDXSQMhWg6xvGxFn4InCrwk61mSqN5w6SEcc1gi6sOxFpAhFJhzocvcGz0JC3Bc2yZv5HX6p6ndtZyToy2UOlZysH171DrreHH0E98O3CUlmAb/wmcIqkns25pkN9wJnWcgJ5ruBmGtXG6UieBEUBKJD3R/9MTuYpFCO5duIm7y5ehGiqa1NENHauwsXnBBrZUbCSiTXFl6hohNZxVlMBNutQORrTcG\u002BQNA4ZOd/oMcBzIBQBohsZIcpSLk5f59/AJRs0u883AUS5FrhJUQkh5S4koQCu/pC8QyNdpcfNe4Yixxhkz7z9f9oVSukp/3M/ZUDung62E1UnieoKeyFX\u002BFzzL2VA7U1qsUMkA2Q/yYy6qHVzTctdFsWFf2mCuGKLKFgaxCZiDWeCT6Qj\u002BxFBOWCIJpycZSo4Qz\u002B9ZliRwCLfyOT3xGJfzEzN/Yrw1bys19r8DK81mYLltfJ40ujzMz6mX\u002BGdksHRyuk\u002BGDCeTN2n2tCJJmfebw/y3zmAsgShwnDblVd6P9pcGcFtDgAXWIAGjg2XOTgx5A4HFrNNM9ecxzNP9NZIDvBguSGIxtzdsT0GPqhBlEE324LNJoAnwmhE6MAX8hN32AUdin9Om9NGbLhHKM11qpmePx0azdw8Y/zBXOQZ0A6dpUb7nnNrNJUUheUt5FPF7DK00e\u002B4D\u002BVfzA7gT6KA9OchHUwniM1\u002BKhfx2w0fK4XGvG3BjtcZpHso1\u002Bt/DryjGaN2dvEzKAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-04-03T21:12:51.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SauceDemoSteps.cs",
+              "DocumentMoniker": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\StepDefinitions\\SauceDemoSteps.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\SauceDemoSteps.cs",
+              "ToolTip": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\StepDefinitions\\SauceDemoSteps.cs",
+              "RelativeToolTip": "StepDefinitions\\SauceDemoSteps.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAswLEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:57:08.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestHooks.cs",
+              "DocumentMoniker": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\Hooks\\TestHooks.cs",
+              "RelativeDocumentMoniker": "Hooks\\TestHooks.cs",
+              "ToolTip": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\Hooks\\TestHooks.cs",
+              "RelativeToolTip": "Hooks\\TestHooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T14:34:16.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InventoryPage.cs",
+              "DocumentMoniker": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\UI\\Pages\\InventoryPage.cs",
+              "RelativeDocumentMoniker": "UI\\Pages\\InventoryPage.cs",
+              "ToolTip": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\UI\\Pages\\InventoryPage.cs",
+              "RelativeToolTip": "UI\\Pages\\InventoryPage.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwCUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T21:21:16.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\UI\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "UI\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\UI\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "UI\\Pages\\LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T21:21:20.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiSteps.cs",
+              "DocumentMoniker": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\StepDefinitions\\ApiSteps.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\ApiSteps.cs",
+              "ToolTip": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\StepDefinitions\\ApiSteps.cs",
+              "RelativeToolTip": "StepDefinitions\\ApiSteps.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAuwO0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:57:06.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-03T13:59:54.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PetApi.feature",
+              "DocumentMoniker": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\API\\Features\\PetApi.feature",
+              "RelativeDocumentMoniker": "API\\Features\\PetApi.feature",
+              "ToolTip": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\API\\Features\\PetApi.feature",
+              "RelativeToolTip": "API\\Features\\PetApi.feature",
+              "ViewState": "AgIAAA0AAAAAAAAAAAApwB0AAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd\u002BUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAXdSURBVEhLlZZrbFRlGsd/79ynneFaLiMirS00UAJIoWWhisIqLKyJEK1m2fWLiYmJMTGYeImXxEtiNmTjGjQa/WDURFkSTSSsYYWFpVIqlrZgKbC0FKa3aacz7UzncubMOef1w5y50hL9zYdJ3vc5//95n/d9nvcIfit7vNDssYHhBhwgJUKkcNgUDiV0Dk2UPnErUkpROlaEzwo\u002Baxn75yxFiLUI6oBlwCzAAMKAH8klNC7y3sQQI7rCiF6qlGNmw23A0wuXI8VuYCdQBywE7CWRKhAAuoCjCHGUJwLDJTE5rKUDrHTBBpeLN21NTDjfQLAPWAXMnjY\u002BMzYbqAYakXIZCXmd\u002BdYwQ5oxXXCebcAz5WWsL99JxPE6gu1AGWCxCRt2ix1D5jWcFgcuqxNNagAWwIMQa1njXEyto4\u002BIMcqAJgstig3rnTYa3ZvRxQtAA2ADcFvdPLh4K7t824hqCYKpEB57OXuX7GKnbxsT6QhjynhWRSC4C7dwUWXvZlyfYDi/p8WGlc6FrHI9B/wJcGX3uNpTxSsrn2Nf5aMYGJwLdVLjrebg\u002Brd5cNFW/PEh2sLnC5XswCLKLAF60930prXshCUXco9D8DfPduBhM41CkPkl9SRTehyvvZxN8\u002BqpcM6nYe4aqj1VqDLNpBbNyZgI4A4Ej2FjeeHRzBsi5oNoAhYB2IWNzRUNbK5oQJcGhweO0BbqZDA5jKKnCChB\u002BmI3OOT/jlNjrXmZPAJYzZPeeuqdOZ9MSl0C7nWvoNb\u002BNLAEYPXsWj5tOMAO3wNUli\u002BhdbydE4HTnAt3ci3WT1AN0x25zHfDx/AnBpEUnY0sLnRu8qPSRkBXyK1wjsXKI56lWTPMnXdby6jxVLH3zt1sX9REd\u002BQKbaEOVCPFmBLk\u002B5H/0h/zF53cEgSCFUBFdiCzQo/FwQ73FmCHuX\u002BE1An64jcYVka5Eu3l53AXvVP9qFLNqc2wqlJinFGOEdBHKDC0s7Nso1mJbgADg\u002BuxAW7G/VyYvMTFyR7ieqJEK8M8x1zuLPMhASWTuUIinFGOENCHKDg0ElDM/ghmLl5e\u002BSyfNbzHJxsP8FT1X/DYPDmVLGtn1/HBhnf51x8\u002B4ctNH/LQ4q2lIZj6kDMUpBGMA6nsxJ99f\u002BSN1ftprKhnhbcai7BgoOOwOMxHBHbhIKrFSOkqy71VPLT4Pr5oPJiVyBICcqnJpNRpkaxzleMV9wN3AFgtNmpn1dAfG\u002BQr/7ecGG2haUEj6\u002Baupj/up8JVwb7KvaT0NOfDXSQMhWg6xvGxFn4InCrwk61mSqN5w6SEcc1gi6sOxFpAhFJhzocvcGz0JC3Bc2yZv5HX6p6ndtZyToy2UOlZysH171DrreHH0E98O3CUlmAb/wmcIqkns25pkN9wJnWcgJ5ruBmGtXG6UieBEUBKJD3R/9MTuYpFCO5duIm7y5ehGiqa1NENHauwsXnBBrZUbCSiTXFl6hohNZxVlMBNutQORrTcG\u002BQNA4ZOd/oMcBzIBQBohsZIcpSLk5f59/AJRs0u883AUS5FrhJUQkh5S4koQCu/pC8QyNdpcfNe4Yixxhkz7z9f9oVSukp/3M/ZUDung62E1UnieoKeyFX\u002BFzzL2VA7U1qsUMkA2Q/yYy6qHVzTctdFsWFf2mCuGKLKFgaxCZiDWeCT6Qj\u002BxFBOWCIJpycZSo4Qz\u002B9ZliRwCLfyOT3xGJfzEzN/Yrw1bys19r8DK81mYLltfJ40ujzMz6mX\u002BGdksHRyuk\u002BGDCeTN2n2tCJJmfebw/y3zmAsgShwnDblVd6P9pcGcFtDgAXWIAGjg2XOTgx5A4HFrNNM9ecxzNP9NZIDvBguSGIxtzdsT0GPqhBlEE324LNJoAnwmhE6MAX8hN32AUdin9Om9NGbLhHKM11qpmePx0azdw8Y/zBXOQZ0A6dpUb7nnNrNJUUheUt5FPF7DK00e\u002B4D\u002BVfzA7gT6KA9OchHUwniM1\u002BKhfx2w0fK4XGvG3BjtcZpHso1\u002Bt/DryjGaN2dvEzKAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-04-03T11:33:19.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T10:34:13.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TestDataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\Utils\\TestDataHelper.cs",
+              "RelativeDocumentMoniker": "Utils\\TestDataHelper.cs",
+              "ToolTip": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\Utils\\TestDataHelper.cs",
+              "RelativeToolTip": "Utils\\TestDataHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:28:04.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlaywrightBDDFramework.csproj",
+              "DocumentMoniker": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\PlaywrightBDDFramework.csproj",
+              "RelativeDocumentMoniker": "PlaywrightBDDFramework.csproj",
+              "ToolTip": "C:\\Users\\Efeoghene\\OneDrive\\Skrivbord\\Software_Testing\\Technical_Test_Design _a_Test_Automation_Framework\\PlaywrightBDDFramework\\PlaywrightBDDFramework1\\PlaywrightBDDFramework.csproj",
+              "RelativeToolTip": "PlaywrightBDDFramework.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwCgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-31T13:54:26.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

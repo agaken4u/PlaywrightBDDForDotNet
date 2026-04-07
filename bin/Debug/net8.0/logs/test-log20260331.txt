@@ -1,0 +1,4 @@
+2026-03-31 15:57:18.424 +01:00 [INF] === Test Run Started ===
+2026-03-31 15:57:18.668 +01:00 [INF] === Test Run Finished ===
+2026-03-31 16:02:53.540 +01:00 [INF] === Test Run Started ===
+2026-03-31 16:02:53.615 +01:00 [INF] === Test Run Finished ===

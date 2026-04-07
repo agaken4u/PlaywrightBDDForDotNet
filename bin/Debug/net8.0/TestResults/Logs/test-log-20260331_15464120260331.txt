@@ -1,0 +1,3 @@
+2026-03-31 15:46:43.708 +01:00 [INF] === Test Run Started ===
+2026-03-31 15:46:43.781 +01:00 [INF] Extent report generated at: C:\Users\Efeoghene\OneDrive\Skrivbord\Software_Testing\Technical_Test_Design _a_Test_Automation_Framework\PlaywrightBDDFramework\PlaywrightBDDFramework1\bin\Debug\net8.0\TestResults\Reports\extent-report-20260331_154641.html
+2026-03-31 15:46:43.847 +01:00 [INF] === Test Run Finished ===

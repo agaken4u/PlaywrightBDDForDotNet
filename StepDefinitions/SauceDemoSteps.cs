@@ -119,9 +119,23 @@ namespace SauceDemoTests.StepDefinitions
         [Then(@"the cart badge should display ""(.*)""")]
         public async Task ThenCartBadgeShouldDisplay(string expectedCount)
         {
-            var badge = _page.Locator(".shopping_cart_badge");
-            var text = await badge.InnerTextAsync();
-            Assert.AreEqual(expectedCount, text);
+            var badgeLocator = _page.Locator(".shopping_cart_badge");
+
+            if (expectedCount == "0")
+            {
+                // Check that the badge does NOT exist
+                bool exists = await badgeLocator.CountAsync() > 0;
+                if (exists)
+                    throw new Exception($"Expected no cart badge, but one exists.");
+            }
+            else
+            {
+                // Wait for badge to have expected count
+                await badgeLocator.WaitForAsync(new LocatorWaitForOptions { Timeout = 5000 });
+                string actualCount = await badgeLocator.InnerTextAsync();
+                if (actualCount != expectedCount)
+                    throw new Exception($"Expected cart badge '{expectedCount}', but found '{actualCount}'");
+            }
         }
 
         [Then(@"I should see ""(.*)"" in the cart")]
